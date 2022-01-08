@@ -1,4 +1,4 @@
-import { styleBody, addTitle, } from './dom'
+import addTitle, { styleBody } from './dom'
 import people, { getPremUsers } from './data'
 
 styleBody()
